@@ -1,0 +1,23 @@
+{
+ "server_address": "localhost:9010",
+ "environments": {
+  "Desenvolvimento": {
+   "sts_address": "https://sts.com",
+   "api_address": "https://api.com",
+   "client_id": "xxx",
+   "client_secret": "xxxx"
+  },
+  "Homologação": {
+   "sts_address": "https://sts.com",
+   "api_address": "https://api.com",
+   "client_id": "xxx",
+   "client_secret": "xxxx"
+  },
+  "Produção": {
+   "sts_address": "https://sts.com",
+   "api_address": "https://api.com",
+   "client_id": "xxx",
+   "client_secret": "xxxx"
+  }
+ }
+}
